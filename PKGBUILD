@@ -7,5 +7,5 @@ pkgdesc="metapackage - empty project"
 arch=('any')
 
 package() {
-  :
+  return 1
 }
